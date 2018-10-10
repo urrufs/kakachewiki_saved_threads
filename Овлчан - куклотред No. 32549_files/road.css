@@ -1,0 +1,188 @@
+
+html, body {
+    background-attachment: fixed;
+    background-image: url("http://owlchan.ru/css/images/road1.jpg");
+    background-position: center center;
+    background-size: cover;
+    color: #dea851;
+}
+select, textarea, .mselect, input[type="text"], input[type="file"], input[type="password"], input[name="snum"], #anoniconsselectlist {
+    background: url("http://owlchan.ru/css/images/road2.jpg") no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+    background-clip: border-box;
+    background-color: #3e3c38;
+    background-origin: padding-box;
+    border: 1px solid #44453d;
+    border-radius: 5px;
+    color: #dea851;
+    transition: all 0.3s ease 0s;
+}
+a {
+    color: #FFEC8B;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff6600;
+}
+.reflink a:hover {
+    font-weight: bold;
+	color: #ff6600;
+}
+.adminbar {
+    clear: both;
+    float: right;
+    text-align: right;
+}
+.logo {
+    clear: both;
+    color: #FFDEAD;
+    font-size: 2em;
+    text-align: center;
+    width: 100%;
+}
+.replymode {
+    background: none repeat scroll 0 0 #e04000;
+    color: #ffffff;
+    padding: 2px;
+    text-align: center;
+    width: 100%;
+}
+.catalogmode {
+    background: none repeat scroll 0 0 #0040e0;
+    color: #ffffff;
+    padding: 2px;
+    text-align: center;
+    width: 100%;
+}
+.postarea {
+}
+.rules {
+    font-family: sans-serif;
+    font-size: 10px;
+    width: 468px;
+}
+.rules li {
+    margin-left: 1em;
+}
+.postblock {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #dea851;
+    font-weight: 800;
+}
+.footer {
+    font-family: serif;
+    font-size: 12px;
+    text-align: center;
+}
+.passvalid {
+    background: none repeat scroll 0 0 #eeaa88;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+}
+.dellist {
+    font-weight: bold;
+    text-align: center;
+}
+.delbuttons {
+    padding-bottom: 4px;
+    text-align: center;
+}
+.managehead {
+    background: none repeat scroll 0 0 #aaaa66;
+    color: #400000;
+    padding: 0;
+}
+.postlists {
+    background: none repeat scroll 0 0 #ffffff;
+    color: #dea851;
+    padding: 0;
+    width: 100%;
+}
+.row1 {
+    background: none repeat scroll 0 0 #eeeecc;
+    color: #dea851;
+}
+.row2 {
+    background: none repeat scroll 0 0 #ddddaa;
+    color: #dea851;
+}
+.unkfunc {
+    background: inherit;
+    color: #789922;
+}
+.filesize {
+    text-decoration: none;
+}
+.filetitle {
+    background: inherit;
+    color: #FFE4B5;
+    font-size: 1.2em;
+    font-weight: 800;
+}
+.postername {
+    color: #A2CD5A;
+    font-weight: bold;
+}
+.postertrip {
+    color: #9ACD32;
+}
+.oldpost {
+    color: #FFE4B5;
+    font-weight: 800;
+}
+.omittedposts {
+    color: #707070;
+}
+.reply {
+    background-attachment: fixed;
+    background-image: url("http://owlchan.ru/css/images/road2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 12px #072f75;
+    border: 1px solid #44453d;
+    border-radius: 5px;
+    color: #dea851;
+    transition: all 0.3s ease 0s;
+    color: #dea851;
+}
+.replyhl {
+    background: none repeat scroll 0 0 #f0c0b0;
+    color: #dea851;
+}
+.doubledash {
+    clear: both;
+    float: left;
+    vertical-align: top;
+}
+.replytitle {
+    color: #FFE4B5;
+    font-size: 1.2em;
+    font-weight: 800;
+}
+.commentpostername {
+    color: #117743;
+    font-weight: 800;
+}
+.thumbnailmsg {
+    color: #dea851;
+    font-size: small;
+}
+.abbrev {
+    color: #707070;
+}
+.highlight {
+    background-attachment: fixed;
+    background-image: url("http://owlchan.ru/css/images/road2.jpg");
+    background-position: center center;
+    background-size: cover;
+    border: 2px dashed red;
+    color: #dea851;
+}
+#watchedthreads {
+    background-color: #f0e0d6;
+}
+.reflinkpreview {
+    background-color: #f0e0d6;
+}
+
