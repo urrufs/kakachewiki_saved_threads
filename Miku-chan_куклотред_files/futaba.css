@@ -1,0 +1,31 @@
+/* hr { visibility: hidden; border-style: solid none none none; border-width: 1px; border-color: #BBBBBB;} */
+body { background: #ffffee; color: #800000; }
+div#page { border: 0px; float: left; min-height: 100%; padding: 5px 0 20px 1%; width: 100%; }
+div#title { background-color: #ffffee; color: #af0a0f; text-align: center; font-size:24pt; clear:both; }
+div.post { width: 90%; margin-right: auto; margin-left: auto; }
+div#panel { font-size: 12pt; }
+.reply { font-family: serif; }
+div.reply { background-color: #f0e0d6; color: #800000; border: 1px solid #ddd; margin-left: 20px; margin-top: 5px; margin-bottom: 0px; min-width: 650px; max-width: 700px }
+div#replyform { width: 70%; margin-right: auto; margin-left: auto; }
+div.iichan { margin-top: 10px; font-size:2em; text-align:center; clear: both; }
+a { color: #0000EE; font-family: sans-serif; }
+a.postlink { color: #800000; text-decoration: none; }
+a:hover { color: #DD0000; }
+div#adminbar { float: right; text-align: right; clear: both; margin-bottom: 10px; }
+.reply label { color:#666666; font-size:80%; }
+.omitted {
+    color:#707070;
+}
+a.delete { color: #ff0000; text-decoration: none; }
+small#noii { display: none; }
+span.replytitle { font-weight: 800; font-size: 1.2em; color:#CC1105; }
+span.quote { color: #89b83f; }
+span.spoiler { background: #F0D0B6; color: #F0D0B6; }
+span.spoiler:hover { background: #F0D0B6; color: #800000; } 
+small { color: #999; }
+small.admin { color: #ff0000; }
+tr { vertical-align: top; }
+td { vertical-align: top; }
+td.image { vertical-align: top; }
+table { border-spacing: 0px 0px; }
+img { border: 0px; }
